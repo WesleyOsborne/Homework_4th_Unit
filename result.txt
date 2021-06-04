@@ -1,0 +1,21 @@
+Portfolio Analysis
+------------------------------
+Portfolios that are Riskier then S&P
+S&P TSX 60 Index               False
+SOROS FUND MANAGEMENT LLC       True
+PAULSON & CO.INC.              False
+TIGER GLOBAL MANAGEMENT LLC     True
+BERKSHIRE HATHAWAY INC          True
+Algo 1                          True
+Algo 2                          True
+
+Portfolios that outperfomed the S&P
+S&P TSX 60 Index               False
+SOROS FUND MANAGEMENT LLC      False
+PAULSON & CO.INC.              False
+TIGER GLOBAL MANAGEMENT LLC    False
+BERKSHIRE HATHAWAY INC          True
+Algo 1                          True
+Algo 2                         False
+Custom                          True
+dtype: bool
